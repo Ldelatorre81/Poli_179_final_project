@@ -1,6 +1,4 @@
-# Project Title
-
-> Effect of Community events on Online ISIS sympathizer activity.
+# Effect of Community Events on Online ISIS Sympathizer Activity.
 > By Omar Romero Godoy and Logan De La Torre
 
 
