@@ -6,12 +6,10 @@
 
 ## Introduction
 
-# Poli_179_final_project
-
-	For our project, we looked at tweets from Islamic State extremist supporters from 2014 to 2016. Our research question is "How do counter-extremism efforts influence the evolution of extremist rhetoric on social media platforms?" The dataset we used is from Fifth tribe, and stores tweets from ISIS 'fanboys' from January 2015 to June 2016. We also got motivation from Countering Violent Extremism and Radical Rhetoric paper by Tamarr Mitts.
+> For our project, we looked at tweets from Islamic State extremist supporters from 2014 to 2016. Our research question is "How do counter-extremism efforts influence the evolution of extremist rhetoric on social media platforms?" The dataset we used is from Fifth tribe, and stores tweets from ISIS 'fanboys' from January 2015 to June 2016. We also got motivation from Countering Violent Extremism and Radical Rhetoric paper by Tamarr Mitts.
 
 
-	For our research, we are utilizing word embeddings with the hope to have vector representations of the text data. We will then also use LDA topic clustering to identify and compare the main topics that IS members discuss before and after counter-extremism efforts.  For context, counter-extremism efforts were events held by the US government to lower the potential threats of Islamic State supporters.
+> For our research, we are utilizing word embeddings with the hope to have vector representations of the text data. We will then also use LDA topic clustering to identify and compare the main topics that IS members discuss before and after counter-extremism efforts.  For context, counter-extremism efforts were events held by the US government to lower the potential threats of Islamic State supporters.
  
 
 ## Key Links 
