@@ -50,7 +50,9 @@
 ## Conclusion and Findings
 
 > For the LDA analysis, our findings show that while Propaganda, information sharing (https, rt), geographical focus, and religious discourse stayed fairly similar for both years, we saw a change in how ISIS sympathizers started to switch to a more specific discussion about the military, breaking news, and violent events.
+
 > For the word embeddings, our findings show that ISIS sympathizers switched to more particular tweets. These include particular attacks, military movements, and other terrorist groups. Before the tweets were more ideological.
+
 > Thus, our overall conclusion is that the counter extremism events did end up changing how ISIS sympathizers use social media. They started being more strategic with their tweets and tweeting more around Isis on tactical & military aspects rather than ideology like before the events.
 > 
 ## Key Links 
