@@ -20,10 +20,10 @@
 
 ## Data Preprocessing
 
-> Another important note is that we subsetted the dataset into two smaller ones. One for the tweets from 2015, and another one for the tweets from 2016. These were named df_2015 and df_2016 on the code.
+> Another important note is that we subsetted the dataset into four smaller ones. One for the tweets from 2015, and another one for the tweets from 2016. These were named df_2015 and df_2016 on the code. Then, we subsetted the data to people over the median follower count, and below the median follower count.
 > To clean up the dataset, we decided to remove stop words, make all the words lowercase, remove numbers, remove 'http' from all tweets, and then turn it into  document term matrices. 
 
-## Results/Graphs/Visual Representation for LDA Analysis
+## Results/Graphs/Visual Representation for LDA Analysis for 2015 and 2016
 
 > Below is our results from the LDA analysis
 <img width="347" alt="image" src="https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/6cc304cc-3cc7-43ce-822c-16c625fb86a1">
@@ -31,7 +31,16 @@
 > We also did a time series that shows how many tweets each topic had over the span from January 2015 to May 2016. Below are the results we got for the time series.
 ![image](https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/28e7e695-8923-4a64-a4f9-3835e78ad66a)
 
-## Results/Graphs/Visual Representation for Word Embedding
+## Results/Graphs/Visual Representation for LDA Analysis for followers dataset
+
+> Below is our results from the LDA analysis
+<img width="641" alt="image" src="https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/b0644b19-db90-4bcd-a29d-d6bdde4e4661">
+
+We also did a histogram showing how often each topic was tweeted for the people above the median followers, and below the median followers
+![image](https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/73c878fc-32d2-4d98-8548-5dcaedcee9d4)
+![image](https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/38cc7d59-528a-4ddc-814e-af6014d260c7)
+
+## Results/Graphs/Visual Representation for Word Embedding for 2015 and 2016 dataset
 > For our word embedding, we decided first to show the results for the words with the highest scores, and then make a word cloud for each topic and the most popular words for 2015 and 2016.
 
 > Below is our results from the word embedding
@@ -46,6 +55,13 @@
 ![image](https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/d1f0b6a4-dfc3-4a32-bf30-6d0228eb3e5b)
 ![image](https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/66de9b02-178d-4f7f-a4e0-b657f702ba82)
 ![image](https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/a9bc4675-e54b-4a26-a23e-142b130f8cf7)
+
+## Results/Graphs/Visual Representation for Word Embedding for Follower dataset
+> For our word embedding, we decided first to show the results for the words with the highest scores from people above the median follower count, and below the median follower count.
+
+> Below is our results from the word embedding
+<img width="973" alt="image" src="https://github.com/Ldelatorre81/Poli_179_final_project/assets/169123981/567de015-fe78-4a6e-a9b9-0193ebcb4e49">
+
 
 ## Conclusion and Findings
 
