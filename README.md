@@ -15,8 +15,8 @@
 
 ## Methods
 
-> For our methods, we used an LDA approach to get the top words from five topics for 2015 and 2016. We used five topics because it gave us the average highest coherence score.
-> Our second method was word embeddings using Word2Vec. We looked for words similar to: 1) Isis 2) Syria 3) Attack 4) Allah
+> For our methods, we used an LDA approach to get the top words from five topics for 2015 and 2016, and another LDA for those above the median follower count and below it too. We used five topics because it gave us the average highest coherence score.
+> Our second method was word embeddings using Word2Vec. We looked for words similar to: 1) Isis 2) Syria 3) Attack 4) Allah for both 2015/2016 datasets and the follower datasets too.
 
 ## Data Preprocessing
 
